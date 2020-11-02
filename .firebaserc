@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ng-course-recipe-book-f8bff"
+  },
+  "targets": {
+    "ng-complete-guide-e90d9": {
+      "hosting": {
+        "BasicsofAngular": [
+          "ng-complete-guide-e90d9"
+        ]
+      }
+    }
+  }
+}
