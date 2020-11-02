@@ -1,0 +1,15 @@
+src1:componentand databinding
+src2:directives
+src3:services&dependencyinjection
+src4:routing
+src5:observables
+src6:TD forms
+src7:REactiveForms
+src8:http
+src9:authentication
+src10:ngrx
+src11:animations
+src12:serviceworker
+src13:testing
+src14:pipe
+
